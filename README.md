@@ -50,13 +50,13 @@
     <td align="center"><a href="https://github.com/dohyeondol1"><img src="https://avatars.githubusercontent.com/u/102894803?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/hadongun"><img src="https://avatars.githubusercontent.com/u/170607480?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/froglike6"><img src="https://avatars.githubusercontent.com/u/62248477?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://https://github.com/caucsejunseo"><img src="https://avatars.githubusercontent.com/u/163493540?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/caucsejunseo"><img src="https://avatars.githubusercontent.com/u/163493540?v=4" width="100px;" alt=""/>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/wnsmir" title="Code">dohyeondol</a></td>
     <td align="center"><a href="https://github.com/hadongun" title="Code">hadongun</a></td>
     <td align="center"><a href="https://github.com/froglike6" title="Code">froglike6</a></td>
-    <td align="center"><a href="https://https://github.com/caucsejunseo" title="Code">caucsejunseo</a></td>
+    <td align="center"><a href="https://github.com/caucsejunseo" title="Code">caucsejunseo</a></td>
   </tr>
 </table>
 
