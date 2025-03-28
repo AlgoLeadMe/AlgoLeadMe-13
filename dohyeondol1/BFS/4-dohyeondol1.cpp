@@ -12,20 +12,20 @@ bool bfs() {
     visited[0][0] = true;
     
     while(!q.empty()) {
-        int x = q.front().first;
-        int y = q.front().second;
+        int y = q.front().first;
+        int x = q.front().second;
         q.pop();
         
-        int jump = map[x][y];
+        int jump = map[y][x];
         if(jump == -1) return true;
         
-        if(x + jump < N && !visited[x + jump][y]) {
-            q.push({x + jump, y});
-            visited[x + jump][y] = true;
+        if(y + jump < N && !visited[y + jump][x]) {
+            q.push({y + jump, x});
+            visited[y + jump][x] = true;
         }
-        if(y + jump < N && !visited[x][y + jump]) {
-            q.push({x, y + jump});
-            visited[x][y + jump] = true;
+        if(x + jump < N && !visited[y][x + jump]) {
+            q.push({y, x + jump});
+            visited[y][x + jump] = true;
         }
     }
     
