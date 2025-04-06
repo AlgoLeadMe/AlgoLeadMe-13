@@ -6,4 +6,4 @@
  | 3차시 | 2025.03.26 |   스택   | [좋은단어](https://www.acmicpc.net/problem/3986)|[#12]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/12|
  | 4차시 | 2025.03.27 |   스택   | [과제는끝나지않아!](https://www.acmicpc.net/problem/17952)|[#14]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/14|
  | 5차시 | 2025.04.02 |   큐    |  [요세푸스문제](https://www.acmicpc.net/problem/1158)|[#19]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/19|
-| 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|[]
+| 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|[#23]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/23|
