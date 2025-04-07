@@ -4,14 +4,14 @@ def stack_boy():
     stack = []
     
     input_data = sys.stdin.read().splitlines()
-    N = int(input_data[0])
+    N = int(input_data[0])  
 
     for i in range(1, N + 1):
-        command = input_data[i].split()
+        command = input_data[i].split()  
         cmd = command[0]
 
         if cmd == "1":
-            stack.append(int(command[1]))
+            stack.append(int(command[1]))  
 
         elif cmd == "2":
             print(stack.pop() if stack else -1)
