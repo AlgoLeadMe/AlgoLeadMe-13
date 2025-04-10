@@ -8,3 +8,4 @@
  | 5차시 | 2025.04.02 |   큐    |  [요세푸스문제](https://www.acmicpc.net/problem/1158)|[#19]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/19|
  | 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|[#23]https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/23|
  | 7차시 | 2025.04.10 |  그리디  | [폴리오미노](https://www.acmicpc.net/problem/1343)|[#28]|
+ ---
