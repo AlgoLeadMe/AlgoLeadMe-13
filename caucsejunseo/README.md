@@ -10,3 +10,4 @@
  | 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/23|
  | 7차시 | 2025.04.10 |  그리디  | [폴리오미노](https://www.acmicpc.net/problem/1343)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/28|
  | 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
+
