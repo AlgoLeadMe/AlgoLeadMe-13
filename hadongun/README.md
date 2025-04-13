@@ -8,3 +8,4 @@
  | 4차시 | 2025-03-27  | 큐               | [카드2] (https://www.acmicpc.net/problem/2164)
  | 5차시 | 2025-04-02  | 스택             | [스택2] (https://www.acmicpc.net/problem/28278)
  | 6차시 | 2025-04-04  | 정렬             | [단어정렬](https://www.acmicpc.net/problem/1181)
+ | 7차시 | 2025-04-07  | 스택             | [균형잡힌 세상](https://www.acmicpc.net/problem/4949)
