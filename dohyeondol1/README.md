@@ -8,4 +8,5 @@
  | 4차시 | 2025.03.28 |  BFS  | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/15|
  | 5차시 | 2025.04.02 |  DFS & BFS  | [DFS와 BFS](https://www.acmicpc.net/problem/1260)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/18|
  | 6차시 | 2025.04.05 |  DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/22|
+ | 7차시 | 2025.04.08 |  트리  | [트리 순회](https://www.acmicpc.net/problem/1991)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/26|
  ---
