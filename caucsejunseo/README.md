@@ -9,4 +9,10 @@
  | 5차시 | 2025.04.02 |   큐    |  [요세푸스문제](https://www.acmicpc.net/problem/1158)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/19|
  | 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/23|
  | 7차시 | 2025.04.10 |  그리디  | [폴리오미노](https://www.acmicpc.net/problem/1343)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/28|
+<<<<<<< Updated upstream
  | 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
+=======
+| 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
+| 9차시 | 2025.04.30 | 문자열   | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/35|
+|10차시| 2025.05.05 | 다이나믹  | [1로만들기](https://www.acmicpc.net/problem/1463)||
+>>>>>>> Stashed changes
