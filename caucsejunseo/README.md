@@ -14,5 +14,9 @@
 =======
 | 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
 | 9차시 | 2025.04.30 | 문자열   | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/35|
+<<<<<<< Updated upstream
+|10차시| 2025.05.05 | 다이나믹  | [1로만들기](https://www.acmicpc.net/problem/1463)||
+>>>>>>> Stashed changes
+=======
 |10차시| 2025.05.05 | 다이나믹  | [1로만들기](https://www.acmicpc.net/problem/1463)||
 >>>>>>> Stashed changes
