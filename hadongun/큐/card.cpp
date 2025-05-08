@@ -26,22 +26,18 @@ int implement(int car[], int k)
     int saving_box;
     int temp_1 = 0;
     int temp_2 = 0;
-    // 제일 위에 카드를 버린다. -> 모든 카드를 한 칸씩 아래로 땡겨오기
-    //이후 제일 아래에 있는 카드를 맨 위로 보낸다.
-    //카드가 1개 남을 때 까지 수행한다.
 
-    //카드 한 칸씩 앞으로 땡기기
     while (car[1] != 0)
     {
         for (int i = 0; i < k - 1; i++)
         {
             car[i] = car[i + 1];
         }
-        //제일 아래 카드를 맨 위로 보내기
+ 
         car[k - 1] = 0;
         k--;
         saving_box = car[0];
-        // 카드 한 칸씩 앞으로 땅기기
+  
         for (int i = 0; i < k - 1; i++)
         {
             car[i] = car[i + 1];

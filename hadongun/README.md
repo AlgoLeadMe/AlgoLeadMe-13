@@ -12,5 +12,3 @@
  | 8차시 | 2025.04.09 |  그리디 알고리즘  | [알바생 강호](https://www.acmicpc.net/problem/1758)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/29|
  | 9차시 | 2025.05.02 |  스택  | [제로](https://www.acmicpc.net/problem/10773)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/36|
  | 10차시| 2025.05.07 |  수학  | [통계학](https://www.acmicpc.net/problem/2108)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/36|
-
- ---
