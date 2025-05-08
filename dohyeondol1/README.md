@@ -10,3 +10,4 @@
  | 6차시 | 2025.04.05 |  DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/22|
  | 7차시 | 2025.04.08 |  트리  | [트리 순회](https://www.acmicpc.net/problem/1991)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/26|
  | 8차시 | 2025.04.11 |  덱  | [회전하는 큐](https://www.acmicpc.net/problem/1021)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/32|
+ | 9차시 | 2025.04.30 |  그리디 알고리즘  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/33|
