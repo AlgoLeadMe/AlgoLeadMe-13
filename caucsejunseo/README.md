@@ -14,4 +14,3 @@
 |10차시| 2025.05.05 |   DP  | [1로만들기](https://www.acmicpc.net/problem/1463)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/38|
 |11차시| 2025.05.07 |  DP   | [1,2,3더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/41|
 
-
