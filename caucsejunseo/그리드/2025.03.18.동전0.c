@@ -4,7 +4,7 @@
 int main()
 {
 
-	int kind, amount, sum=0;
+	int kind, amount, sum = 0;
 	int arr[11] = { 0 };
 
 
@@ -15,16 +15,16 @@ int main()
 		scanf("%d", &arr[i]);
 	}
 
-	
 
-	for (int i = 0; i <= kind-1; i++)
+
+	for (int i = 0; i <= kind - 1; i++)
 	{
 		if (arr[kind - i] <= amount)
 		{
 			sum += amount / arr[kind - i];
-			
+
 			amount -= (amount / arr[kind - i]) * arr[kind - i];
-			
+
 		}
 	}
 
