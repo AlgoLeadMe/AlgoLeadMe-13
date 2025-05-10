@@ -8,7 +8,7 @@ int main() {
 
     vector<vector<int>> dp(N+1, vector<int> (K+1, 0));
     for(int i = 0; i <= N; i++) {
-        dp[i][0] = 0;
+        dp[i][0] = 1;
         dp[i][1] = 1;
     }
     
