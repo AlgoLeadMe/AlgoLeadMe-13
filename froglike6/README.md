@@ -10,4 +10,5 @@
  | 6차시 | 2025.04.07 | 백트래킹| [N-Queen](https://www.acmicpc.net/problem/9663)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/24|
  | 7차시 | 2025.04.09 | 그래프 | [최소비용 구하기](https://www.acmicpc.net/problem/1916)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/27|
  | 8차시 | 2025.04.11 | 물리학 | [곰곰이와 시소](https://www.acmicpc.net/problem/26072)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/31|
+ | 9차시 | 2025.04.30 | 기하학 | [평행사변형](https://www.acmicpc.net/problem/1064)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/34|
  ---
