@@ -14,4 +14,4 @@
  | 10차시 | 2025.05.04 |  완전 탐색  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/37|
  | 11차시 | 2025.05.06 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/39|
  | 12차시 | 2025.05.11 |  DP  | [합분해](https://www.acmicpc.net/problem/2225)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/45|
- | 13차시 | 2025.05.14 |  백트래킹  | [N과 M(9)](https://www.acmicpc.net/problem/15663)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/49|
+ | 13차시 | 2025.05.14 |  백트래킹  | [N과 M 시리즈](https://www.acmicpc.net/workbook/view/2052)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/49|
