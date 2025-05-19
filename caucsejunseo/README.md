@@ -13,6 +13,7 @@
 | 9차시 | 2025.04.30 | 문자열   | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/35|
 |10차시| 2025.05.05 |   DP  | [1로만들기](https://www.acmicpc.net/problem/1463)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/38|
 |11차시| 2025.05.07 |  DP   | [1,2,3더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/41|
-|12차시| 2025.05.16 | DFS   | [유기농배추](https://www.acmicpc.net/problem/1012)||
+|12차시| 2025.05.16 | DFS   | [유기농배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/52|
+|13차시| 2025.05.16 |우선순위큐| [최소힙](https://www.acmicpc.net/problem/1927)||
 
 
