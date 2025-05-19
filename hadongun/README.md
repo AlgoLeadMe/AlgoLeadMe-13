@@ -11,4 +11,8 @@
  | 7차시 | 2025.04.07 |  스택  | [균형 잡힌 세상](https://www.acmicpc.net/problem/4949)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/25|
  | 8차시 | 2025.04.09 |  그리디 알고리즘  | [알바생 강호](https://www.acmicpc.net/problem/1758)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/29|
  | 9차시 | 2025.05.02 |  스택  | [제로](https://www.acmicpc.net/problem/10773)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/36|
+ | 10차시| 2025.05.07 |  수학  | [통계학](https://www.acmicpc.net/problem/2108)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/36|
+ | 11차시| 2025.05.09 |  다이나믹 프로그래밍  | [2xn 타일링](https://www.acmicpc.net/problem/11726)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/44|
+ | 12차시| 2025.05.13 |  스택  | [탑](https://www.acmicpc.net/problem/2493)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/48|
+ | 13차시| 2025.05.15 |  스택  | [오큰수] (https://www.acmicpc.net/problem/17298)||
  ---

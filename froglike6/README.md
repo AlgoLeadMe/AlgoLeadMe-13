@@ -11,4 +11,7 @@
  | 7차시 | 2025.04.09 | 그래프 | [최소비용 구하기](https://www.acmicpc.net/problem/1916)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/27|
  | 8차시 | 2025.04.11 | 물리학 | [곰곰이와 시소](https://www.acmicpc.net/problem/26072)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/31|
  | 9차시 | 2025.04.30 | 기하학 | [평행사변형](https://www.acmicpc.net/problem/1064)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/34|
+ | 10차시 | 2025.05.08 | 이분탐색 | [게임](https://www.acmicpc.net/problem/1072)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/42|
+ | 11차시 | 2025.05.08 | 조합론 | [High Towers](https://www.acmicpc.net/problem/33785)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/43|
+ | 12차시 | 2025.05.11 | 자료 구조 | [AC](https://www.acmicpc.net/problem/5430)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/46|
  ---
