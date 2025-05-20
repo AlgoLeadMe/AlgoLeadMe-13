@@ -13,4 +13,6 @@
  | 9차시 | 2025.04.30 | 기하학 | [평행사변형](https://www.acmicpc.net/problem/1064)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/34|
  | 10차시 | 2025.05.08 | 이분탐색 | [게임](https://www.acmicpc.net/problem/1072)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/42|
  | 11차시 | 2025.05.08 | 조합론 | [High Towers](https://www.acmicpc.net/problem/33785)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/43|
+ | 12차시 | 2025.05.11 | 자료 구조 | [AC](https://www.acmicpc.net/problem/5430)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/46|
+ | 13차시 | 2025.05.13 | 백트래킹 | [치킨 배달](https://www.acmicpc.net/problem/15686)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/47|
  ---
