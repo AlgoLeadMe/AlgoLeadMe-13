@@ -17,4 +17,5 @@
  | 13차시 | 2025.05.13 | 백트래킹 | [치킨 배달](https://www.acmicpc.net/problem/15686)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/47|
  | 14차시 | 2025.05.15 | 선형대수학 | [행렬 제곱](https://www.acmicpc.net/problem/10830)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/51|
  | 15차시 | 2025.05.21 | 구현 | [큐빙](https://www.acmicpc.net/problem/5373)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/57|
+ | 16차시 | 2025.05.22 | 애드 혹 | [IZ*ONE Sequence](https://www.acmicpc.net/problem/33581)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/59|
  ---
