@@ -20,7 +20,7 @@ int bfs(vector<vector<int>>& graph, int N, int M) {
         }
     }
 
-    int max_day = 0;
+    int maxDay = 0;
 
     while(!q.empty()) {
         int y = q.front().first;
@@ -36,7 +36,7 @@ int bfs(vector<vector<int>>& graph, int N, int M) {
                     visited[ny][nx] = true;
                     graph[ny][nx] = 1;
                     days[ny][nx] = days[y][x] + 1;
-                    max_day = max(max_day, days[ny][nx]);
+                    maxDay = max(maxDay, days[ny][nx]);
                     q.push({ny, nx});
                 }
             }
@@ -47,7 +47,7 @@ int bfs(vector<vector<int>>& graph, int N, int M) {
         for(int j = 0; j < M; j++)
             if(graph[i][j] == 0) return -1;
 
-    return max_day;
+    return maxDay;
 }
 
 int main() {
