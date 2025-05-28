@@ -9,13 +9,11 @@
  | 5차시 | 2025.04.02 |   큐    |  [요세푸스문제](https://www.acmicpc.net/problem/1158)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/19|
  | 6차시 | 2025.04.06 |   큐    | [앵무새](https://www.acmicpc.net/problem/14713)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/23|
  | 7차시 | 2025.04.10 |  그리디  | [폴리오미노](https://www.acmicpc.net/problem/1343)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/28|
-| 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
-| 9차시 | 2025.04.30 | 문자열   | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/35|
-|10차시| 2025.05.05 |   DP  | [1로만들기](https://www.acmicpc.net/problem/1463)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/38|
-|11차시| 2025.05.07 |  DP   | [1,2,3더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/41|
-|12차시| 2025.05.16 | DFS   | [유기농배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/52|
-|13차시| 2025.05.16 |우선순위큐| [최소힙](https://www.acmicpc.net/problem/1927)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/53|
-|14차시| 2025.05.19| 이분탐색 | [나무자르기](https://www.acmicpc.net/problem/2805)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/55|
-|15차시| 2025.05.26| 트리    | [군인](https://www.acmicpc.net/problem/1321)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/62|
-
-
+ | 8차시 | 2025.04.11 | 연결리스트| [키로거](https://www.acmicpc.net/problem/5397)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/30|
+ | 9차시 | 2025.04.30 | 문자열   | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/35|
+ |10차시| 2025.05.05 |   DP  | [1로만들기](https://www.acmicpc.net/problem/1463)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/38|
+ |11차시| 2025.05.07 |  DP   | [1,2,3더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/41|
+ |12차시| 2025.05.16 | DFS   | [유기농배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/52|
+ |13차시| 2025.05.16 |우선순위큐| [최소힙](https://www.acmicpc.net/problem/1927)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/53|
+ |14차시| 2025.05.19| 이분탐색 | [나무자르기](https://www.acmicpc.net/problem/2805)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/55|
+ |15차시| 2025.05.26| 트리    | [군인](https://www.acmicpc.net/problem/1321)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/62|
