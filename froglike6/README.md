@@ -18,4 +18,5 @@
  | 14차시 | 2025.05.15 | 선형대수학 | [행렬 제곱](https://www.acmicpc.net/problem/10830)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/51|
  | 15차시 | 2025.05.21 | 구현 | [큐빙](https://www.acmicpc.net/problem/5373)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/57|
  | 16차시 | 2025.05.22 | 애드 혹 | [IZ*ONE Sequence](https://www.acmicpc.net/problem/33581)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/59|
+ | 16-1차시 | 2025.05.29 | 정수 | [N의 배수 (4)](https://www.acmicpc.net/problem/25448)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/63|
  ---
