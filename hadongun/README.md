@@ -14,5 +14,7 @@
  | 10차시| 2025.05.07 |  수학  | [통계학](https://www.acmicpc.net/problem/2108)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/36|
  | 11차시| 2025.05.09 |  다이나믹 프로그래밍  | [2xn 타일링](https://www.acmicpc.net/problem/11726)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/44|
  | 12차시| 2025.05.13 |  스택  | [탑](https://www.acmicpc.net/problem/2493)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/48|
- | 13차시| 2025.05.15 |  스택  | [오큰수] (https://www.acmicpc.net/problem/17298)||
+ | 13차시| 2025.05.15 |  스택  | [오큰수] (https://www.acmicpc.net/problem/17298)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/50|
+ | 14차시| 2025.05.20 |  트리  | [트리의 부모 찾기] (https://www.acmicpc.net/problem/11725)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/56|
+ | 15차시| 2025.05.21 |  트리  | [트리] (https://www.acmicpc.net/problem/1068)||
  ---
