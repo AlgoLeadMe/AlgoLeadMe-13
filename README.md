@@ -72,7 +72,7 @@
     <td align="center"><a href="https://github.com/caucsejunseo" title="Code">caucsejunseo</a></td>
   </tr>
     <tr>
-    <td align="center">25-03-17 ~<br> 25-05-26</a></td>
+    <td align="center">25-03-17 ~<br> 25-06-23</a></td>
   </tr>
 </table>
 <br><br>
