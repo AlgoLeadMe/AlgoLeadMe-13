@@ -16,3 +16,6 @@
  | 12차시 | 2025.05.11 |  DP  | [합분해](https://www.acmicpc.net/problem/2225)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/45|
  | 13차시 | 2025.05.14 |  백트래킹  | [N과 M 시리즈](https://www.acmicpc.net/workbook/view/2052)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/49|
  | 14차시 | 2025.05.16 |  힙  | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/54|
+ | 15차시 | 2025.05.22 |  DFS  | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/60|
+ | 16차시 | 2025.05.24 |  BFS  | [토마토](https://www.acmicpc.net/problem/7576)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/61|
+ | 17차시 | 2025.06.26 |  기하학  | [선분 교차 2](https://www.acmicpc.net/problem/17387)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/65|
