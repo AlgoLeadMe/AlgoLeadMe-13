@@ -16,5 +16,6 @@
  | 12차시| 2025.05.13 |  스택  | [탑](https://www.acmicpc.net/problem/2493)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/48|
  | 13차시| 2025.05.15 |  스택  | [오큰수] (https://www.acmicpc.net/problem/17298)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/50|
  | 14차시| 2025.05.20 |  트리  | [트리의 부모 찾기] (https://www.acmicpc.net/problem/11725)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/56|
- | 15차시| 2025.05.21 |  트리  | [트리] (https://www.acmicpc.net/problem/1068)||
+ | 15차시| 2025.05.21 |  트리  | [트리] (https://www.acmicpc.net/problem/1068)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/58|
+ | 16차시| 2025.06.27 |  구현  | [킹] (https://www.acmicpc.net/problem/1063)||
  ---
