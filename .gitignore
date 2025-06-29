@@ -4,3 +4,4 @@
 cmake-build-debug/
 CMakeLists.txt
 .clang-tidy
+input.txt
