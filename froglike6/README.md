@@ -19,4 +19,5 @@
  | 15차시 | 2025.05.21 | 구현 | [큐빙](https://www.acmicpc.net/problem/5373)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/57|
  | 16차시 | 2025.05.22 | 애드 혹 | [IZ*ONE Sequence](https://www.acmicpc.net/problem/33581)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/59|
  | 17차시 | 2025.05.22 | 기하학 | [아맞다우산](https://www.acmicpc.net/problem/17244)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/66|
+ | 18차시 | 2025.07.03 | 자릿수를 이용한 다이나믹 프로그래밍 | [합 찾기](https://www.acmicpc.net/problem/7786)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/69|
  ---
