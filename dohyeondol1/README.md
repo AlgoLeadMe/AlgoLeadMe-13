@@ -21,3 +21,5 @@
  | 17차시 | 2025.06.26 |  기하학  | [선분 교차 2](https://www.acmicpc.net/problem/17387)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/65|
  | 18차시 | 2025.07.04 |  기하학  | [Water Testing](https://www.acmicpc.net/problem/16057)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/70|
  | 19차시 | 2025.07.09 |  그래프 이론  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/76|
+ | 20차시 | 2025.07.10 |  문자열  | [접두사](https://www.acmicpc.net/problem/1141)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/78|
+ | 21차시 | 2025.07.14 |  그래프 이론  | [석고 모형 만들기](https://www.acmicpc.net/problem/32031)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/81|
