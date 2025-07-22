@@ -24,4 +24,5 @@
  | 20차시 | 2025.07.09 | 조합론 | [암호 만들기](https://www.acmicpc.net/problem/1759)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/77|
  | 21차시 | 2025.07.14 | 기하학 | [Cows](https://www.acmicpc.net/problem/6850)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/82|
  | 22차시 | 2025.07.22 | 그래프 | [밤(Time For The Moon Night)](https://www.acmicpc.net/problem/34064)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/88|
+ | 23차시 | 2025.07.22 | 정수 | [Fibonacci](https://www.acmicpc.net/problem/7677)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/89|
  ---
