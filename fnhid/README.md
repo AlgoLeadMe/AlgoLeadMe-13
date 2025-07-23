@@ -9,4 +9,5 @@
 | 20차시 | 2025.07.12 |   우선순위 큐   |         [강의실](https://www.acmicpc.net/problem/1374)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/80 |
 | 21차시 | 2025.07.14 |   투 포인터    |          [좋다](https://www.acmicpc.net/problem/1253)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/83 |
 | 22차시 | 2025.07.18 |    애드 혹    |        [논리학 교수](https://www.acmicpc.net/problem/1813)        | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/86 |
+| 23차시 | 2025.07.23 |     재귀     |      [별 찍기 - 11](https://www.acmicpc.net/problem/2448)       | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/90  |
  
