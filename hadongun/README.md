@@ -19,5 +19,7 @@
  | 15차시| 2025.05.21 |  트리  | [트리] (https://www.acmicpc.net/problem/1068)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/58|
  | 16차시| 2025.06.27 |  구현  | [킹] (https://www.acmicpc.net/problem/1063)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/68|
  | 17차시| 2025.07.04 |  두 포인터  | [두 수의 합] (https://www.acmicpc.net/problem/3273)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/71|
- | 18차시| 2025.07.08 |  그래프 탐색  | [헌내기는 친구가 필요해] (https://www.acmicpc.net/problem/21736)||
+ | 18차시| 2025.07.08 |  그래프 탐색  | [헌내기는 친구가 필요해] (https://www.acmicpc.net/problem/21736)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/75|
+ | 19차시| 2025.07.11 |  문자열  | [IOIOI] (https://www.acmicpc.net/problem/5525)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/79|
+ | 20차시| 2025.07.15 |  집합과 맵  | [비밀번호 찾기] (https://www.acmicpc.net/problem/17219)||
  ---

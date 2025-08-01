@@ -23,3 +23,4 @@
  | 19차시 | 2025.07.09 |  그래프 이론  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/76|
  | 20차시 | 2025.07.10 |  문자열  | [접두사](https://www.acmicpc.net/problem/1141)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/78|
  | 21차시 | 2025.07.14 |  그래프 이론  | [석고 모형 만들기](https://www.acmicpc.net/problem/32031)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/81|
+ | 22차시 | 2025.07.19 |  그리디 알고리즘  | [대회 개최](https://www.acmicpc.net/problem/12915)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/87|
