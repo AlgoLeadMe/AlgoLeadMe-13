@@ -25,4 +25,5 @@
  | 21차시 | 2025.07.14 | 기하학 | [Cows](https://www.acmicpc.net/problem/6850)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/82|
  | 22차시 | 2025.07.22 | 그래프 | [밤(Time For The Moon Night)](https://www.acmicpc.net/problem/34064)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/88|
  | 23차시 | 2025.07.22 | 정수 | [Fibonacci](https://www.acmicpc.net/problem/7677)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/89|
+ | 24차시 | 2025.08.01 | 구현 | [세그먼트 트리보다도 바･로･너･♡](https://www.acmicpc.net/problem/34075)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/91|
  ---
