@@ -8,4 +8,5 @@
 | 19차시 | 2025.07.06 |     큐      |          [뱀](https://www.acmicpc.net/problem/3190)           | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/74 |
 | 20차시 | 2025.07.12 |   우선순위 큐   |         [강의실](https://www.acmicpc.net/problem/1374)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/80 |
 | 21차시 | 2025.07.14 |   투 포인터    |          [좋다](https://www.acmicpc.net/problem/1253)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/83 |
+| 22차시 | 2025.07.18 |    애드 혹    |        [논리학 교수](https://www.acmicpc.net/problem/1813)        | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/86 |
  
