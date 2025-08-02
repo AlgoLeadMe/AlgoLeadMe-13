@@ -17,7 +17,7 @@ using namespace std;
 
 int main()
 {
-    int n, id, answer=0;
+    int n, id, start, end, answer=0;
     priority_queue<long long, vector<long long>, greater<long long>> pq;
 
 
@@ -25,7 +25,8 @@ int main()
     vector<Lecture> v(n);
     for (int i=0;i<n;i++)
     {
-        cin >> id >> v[id-1].start >> v[id-1].end;
+        cin >> id >> start >> end;
+        v.push_back({start, end});
     }
 
     sort(v.begin(), v.end(), [](const Lecture& a, const Lecture& b)
