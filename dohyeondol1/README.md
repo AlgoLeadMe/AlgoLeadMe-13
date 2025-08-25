@@ -24,3 +24,5 @@
  | 20차시 | 2025.07.10 |  문자열  | [접두사](https://www.acmicpc.net/problem/1141)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/78|
  | 21차시 | 2025.07.14 |  그래프 이론  | [석고 모형 만들기](https://www.acmicpc.net/problem/32031)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/81|
  | 22차시 | 2025.07.19 |  그리디 알고리즘  | [대회 개최](https://www.acmicpc.net/problem/12915)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/87|
+ | 23차시 | 2025.08.03 |  그래프 이론  | [플로이드](https://www.acmicpc.net/problem/11404)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/93|
+ | 24차시 | 2025.08.25 |  DP  | [오르막 수](https://www.acmicpc.net/problem/11057)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/95|
