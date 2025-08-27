@@ -10,5 +10,6 @@
 | 21차시 | 2025.07.14 |   투 포인터    |          [좋다](https://www.acmicpc.net/problem/1253)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/83 |
 | 22차시 | 2025.07.18 |    애드 혹    |        [논리학 교수](https://www.acmicpc.net/problem/1813)        | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/86 |
 | 23차시 | 2025.07.23 |     재귀     |      [별 찍기 - 11](https://www.acmicpc.net/problem/2448)       | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/90 |
-| 24차시 | 2025.08.01 |   시뮬레이션    |        [미친 아두이노](https://www.acmicpc.net/problem/8972)        | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/92 |
+| 24차시 | 2025.08.01 |   시뮬레이션    |       [미친 아두이노](https://www.acmicpc.net/problem/8972)        | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/92 |
+| 25차시 | 2025.08.27 |     수학     |          [터렛](https://www.acmicpc.net/problem/1002)          | https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/96 |
  
